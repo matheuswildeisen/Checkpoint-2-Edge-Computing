@@ -11,6 +11,20 @@
 
 Este projeto tem como objetivo desenvolver um sistema de monitoramento ambiental para a **Vinheria Agnello**, garantindo as condições ideais de armazenamento dos vinhos. O sistema simula um ambiente inteligente capaz de monitorar a **temperatura**, **umidade** e **luminosidade**, alertando o usuário em caso de situações críticas e exibindo os dados em um display LCD.
 
+### Interagindo com o Projeto
+- Para testar o sensor de luminosidade, altere a iluminação do ambiente (ou ajuste a simulação no Wokwi).
+
+- Para testar temperaturas e umidades fora do ideal, ajuste os valores no simulador ou use um sensor físico em ambientes controlados.
+
+- Observe que o sistema atualiza os valores e os alertas a cada 5 segundos, mostrando uma média de 5 leituras para maior precisão.
+
+### Dicas Finais
+- Certifique-se que todos os componentes estejam bem conectados.
+
+- Caso o display não mostre nada, verifique a comunicação I2C e o endereço do display.
+
+- Sempre acompanhe os alertas para garantir que o ambiente esteja adequado para o armazenamento dos vinhos.
+
 ---
 
 ## 🎯 Objetivos Técnicos

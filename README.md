@@ -1,8 +1,8 @@
 # 🍷 Projeto Vinheria Agnello - Checkpoint 02
 
 **Disciplina:** Engenharia de Software - Edge Computing & Computer Systems  
-**Turma:** 1ESPx  
-**Professores:** Prof. Lucas D. Augusto  
+**Turma:** 1ESPW  
+**Professor:** Lucas Demetrius Augusto  
 **Data de Entrega:** 16/05/2025
 
 ---
@@ -58,7 +58,7 @@ Este projeto tem como objetivo desenvolver um sistema de monitoramento ambiental
 
 ## 🖥️ Simulação no Wokwi
 
-🔗 [Clique aqui para acessar o projeto no Wokwi](https://wokwi.com/projects/365879050501902337)
+🔗 [Clique aqui para acessar o projeto no Wokwi](https://wokwi.com/projects/429251841577819137)
 
 ---
 
@@ -78,14 +78,8 @@ Este projeto tem como objetivo desenvolver um sistema de monitoramento ambiental
 
 ## 📝 Autores
 
-- Nome do Integrante 1 – RMxxxxx
-- Nome do Integrante 2 – RMxxxxx
-- Nome do Integrante 3 – RMxxxxx
-- Nome do Integrante 4 – RMxxxxx
-
----
-
-## 🧾 Licença
-
-Projeto acadêmico desenvolvido para fins didáticos. Todos os direitos reservados aos autores e professores orientadores.
-
+- Matheus von Koss Wildeisen - RM: 561539
+- Ana Clara Rocha de Oliveira – RM: 564298
+- Joao Nishikawa – RM: 562376
+- Deivid ruan Marques – RM: 566356
+- Felipe Cordeiro - RM: 566518

@@ -48,7 +48,7 @@ Um sensor LDR (fotoresistor) mede a intensidade de luz no ambiente.
 
 Cada sensor realiza 5 leituras consecutivas com pequenos intervalos e calcula-se a média, garantindo maior precisão nas medições.
 
-###💡 Lógica de Controle
+### 💡 Lógica de Controle
   ### Luminosidade:
 Se a luz ambiente for baixa → LED verde acende.
 

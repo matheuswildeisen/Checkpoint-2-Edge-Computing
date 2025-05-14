@@ -48,32 +48,7 @@ Um sensor LDR (fotoresistor) mede a intensidade de luz no ambiente.
 
 Cada sensor realiza 5 leituras consecutivas com pequenos intervalos e calcula-se a média, garantindo maior precisão nas medições.
 
-### 💡 Lógica de Controle
-  ### Luminosidade:
-Se a luz ambiente for baixa → LED verde acende.
-
-Se estiver em meia-luz → LED amarelo acende + display mostra "Meia Luz".
-
-Se estiver muito claro → LED vermelho acende + buzzer é ativado + display mostra "Luz Alta".
-
-  ### Temperatura:
-Entre 10°C e 15°C → Status "Temp OK" no display.
-
-Abaixo de 10°C → LED amarelo, buzzer ativado, display mostra "Temp Baixa".
-
-Acima de 15°C → LED amarelo, buzzer ativado, display mostra "Temp Alta".
-
-  ### Umidade:
-Entre 50% e 70% → Status "Umidade OK" no display.
-
-Abaixo de 50% → LED vermelho, buzzer ativado, display mostra "Umid. Baixa".
-
-Acima de 70% → LED vermelho, buzzer ativado, display mostra "Umid. Alta".
-
-### 📺 Display LCD
-O display LCD I2C (16x2) alterna entre mensagens de status e os valores médios de temperatura e umidade, atualizados a cada 5 segundos. Isso fornece ao usuário informações em tempo real sobre o ambiente.
-
----
+### Lógica de Controle:
 
 ### 💡 Luminosidade:
 - **Escuro**: LED **verde** aceso.
@@ -89,6 +64,9 @@ O display LCD I2C (16x2) alterna entre mensagens de status e os valores médios 
 - **Entre 50% e 70%**: Mensagem "Umidade OK" + valor exibido.
 - **Abaixo de 50%**: LED **vermelho** + mensagem "Umid. Baixa" + buzzer.
 - **Acima de 70%**: LED **vermelho** + mensagem "Umid. Alta" + buzzer.
+
+### 📺 Display LCD
+- O display LCD I2C (16x2) alterna entre mensagens de status e os valores médios de temperatura e umidade, atualizados a cada 5 segundos. Isso fornece ao usuário informações em tempo real sobre o ambiente.
 
 ---
 

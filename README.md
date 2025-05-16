@@ -100,7 +100,7 @@ Cada sensor realiza 5 leituras consecutivas com pequenos intervalos e calcula-se
 
 ## 🗣️ Explicação em Vídeo
 
-🎥 *(Inserir link do vídeo após gravação)*
+🎥 [Clique aqui para acessar o video de explicacao do projeto](https://drive.google.com/file/d/1JcbohJD-iis166M3vzMNY4fDtqjX6bt5/view)
 
 ---
 
